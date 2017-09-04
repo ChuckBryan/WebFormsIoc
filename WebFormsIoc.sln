@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsIoc", "WebFormsIoc\WebFormsIoc.csproj", "{FCBBDA6C-2C44-48B4-BF6F-CD87D4BE85C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBBDA6C-2C44-48B4-BF6F-CD87D4BE85C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBBDA6C-2C44-48B4-BF6F-CD87D4BE85C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBBDA6C-2C44-48B4-BF6F-CD87D4BE85C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBBDA6C-2C44-48B4-BF6F-CD87D4BE85C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D22A66A2-A3A7-4F5B-A408-225FA8C456B2}
+	EndGlobalSection
+EndGlobal
